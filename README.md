@@ -1,4 +1,4 @@
-# Heartbeat Classification Using Various Machine Learning and Deep Learning Models#
+# Heartbeat Classification Using Various Machine Learning and Deep Learning Models
 
 The code in this repository is supplementary to our future publication "Heartbeat Classification Using Various Machine Learning and Deep Learning Models" 
 
