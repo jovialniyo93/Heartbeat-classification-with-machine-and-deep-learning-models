@@ -1,6 +1,6 @@
-# Heartbeat Classification Using Various Machine Learning and Deep Learning Models
+# [Heartbeat classification using various machine learning models: A comparative study ](https://api-journal.accscience.com/journal/article/preview?id=1891)
 
-The code in this repository is supplementary to our future publication **Heartbeat Classification Using Various Machine Learning and Deep Learning Models** 
+The code in this repository is supplementary to our publication **Heartbeat classification using various machine learning models: A comparative study** 
 
 
 
@@ -23,8 +23,18 @@ The task is to predict the ECG heartbeat signal category, which comes from a pla
 
 # [Powerpoint Presentation](https://github.com/jovialniyo93/Heartbeat-classification-with-machine-and-deep-learning-models/tree/master/presentation.pptx)
 
-**Created by:** Jovial Niyogisubizo 
+**Citation Request:** 
+
+Marc Nshimiyimana, Jovial Niyogisubizo, Jean de Dieu Ninteretse (2024). Heartbeat classification using various machine learning models: A comparative study. 
+Artificial Intelligence in Health. https://doi.org/10.36922/aih.3543
+
+
+**Created by:** : Jovial Niyogisubizo 
+
 jovialniyo93@gmail.com
+
+>[Online Published Paper](https://api-journal.accscience.com/journal/article/preview?id=1891)
+
 
 ## License ##
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
