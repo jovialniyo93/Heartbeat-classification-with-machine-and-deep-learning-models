@@ -25,8 +25,7 @@ The task is to predict the ECG heartbeat signal category, which comes from a pla
 
 **Citation Request:** 
 
-Nshimiyimana M, Niyogisubizo J, Ninteretse JDD. Heartbeat classification using various machine learning models: A comparative study. Artif Intell Health. doi: 10.36922/aih.3543
-
+Nshimiyimana M, Niyogisubizo J, Ninteretse JDD. Heartbeat classification using various machine learning models: A comparative study. Artif Intell Health. [doi: 10.36922/aih.3543](https://doi.org/10.36922/aih.3543)
 
 **Created by:** : Jovial Niyogisubizo 
 
